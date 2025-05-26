@@ -1,0 +1,12 @@
+
+.DS_Store
+.vscode
+.history
+
+/_book
+*.pdf
+*.epub
+*.mobi
+node_modules/
+package-lock.json
+/nbproject/private/

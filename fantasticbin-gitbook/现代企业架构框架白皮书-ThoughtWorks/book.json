@@ -1,0 +1,19 @@
+{
+    "title": "现代企业架构框架(MEAF)",
+    "description": "在线阅读版（仅供个人学习用）",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins" : [],
+    "pdf": {
+        "pageNumbers": true,
+        "fontSize": 12,
+        "paperSize": "a4",
+        "margin": {
+            "right": 62,
+            "left": 62,
+            "top": 56,
+            "bottom": 56
+        }
+    }
+}
